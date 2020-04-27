@@ -79,7 +79,7 @@ funfacts:
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"p
+      name : "Combined Projects"
       count : "200"
 
   testimonial_slider:
