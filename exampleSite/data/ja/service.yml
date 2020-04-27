@@ -45,8 +45,13 @@ service:
     # service item loop
 
     - icon : ion-egg
-      name: birds ecology
-      content: "heron and seabirds"
+      name: heron colony
+      content: "heron"
+      
+    - icon : ion-android-compass
+      name: seabirds ecology
+      content: "seabirds ecology"
+
 
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Collective photography
@@ -60,8 +65,9 @@ service:
       name: Alife
       content: "Artifical inteligence and swarm robotics"
 
-
-   
+    - icon : ion-speakerphone
+      name: Starling roost
+      content "Starling roost"   
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Celler automata
