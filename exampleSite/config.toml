@@ -13,12 +13,12 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/japanese"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+languageCode = "ja"
+languageName = "JP"
+weight = "2"
 [[menu.footer]]
 URL = "about"
 name = "About"
