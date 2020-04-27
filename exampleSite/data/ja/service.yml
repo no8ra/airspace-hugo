@@ -40,9 +40,14 @@ featured_service:
 service:
   enable : true
   title : "Our Reserches"
-  description : "We reseach a lot of themes, alife, seabird ecology, colective photography and reproductive inter ference"
+  description : "We reseach a lot of themes, alife, seabird ecology, colective photography, reproductive interference, etc."
   service_item:
     # service item loop
+
+    - icon : ion-egg
+      name: birds ecology
+      content: "heron and seabirds"
+
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Collective photography
       content: "aaa"
@@ -51,6 +56,9 @@ service:
     - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Reproductive interference
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-outlet
+      name: Alife
+      content: "Artifical inteligence and swarm robotics"
 
 
    
