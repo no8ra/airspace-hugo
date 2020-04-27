@@ -2,10 +2,10 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Welcome to P.E. lab"
+  content : "We are population, pollination, plant and anything P. Ecologists."
   button:
-    enable : true
+    enable : false
     label : "Discover Our Project"
     link : "project"
 
