@@ -7,6 +7,11 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
+  path: exampleSite/content/japanese/blog
+  label: Post(jp)
+  create: documents
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
