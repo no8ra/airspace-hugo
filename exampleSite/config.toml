@@ -7,14 +7,14 @@ theme = "airspace-hugo"
 title = "P.E. lab"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [P.E. lab]() All Rights Reserved"
+copyright = "Copyright &copy; 2020 [P.E. lab]() All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 2
 [Languages.ja]
 contentDir = "content/japanese"
-copyright = "Copyright &copy; 2019 [P.E. lab]() All Rights Reserved"
+copyright = "Copyright &copy; 2020 [P.E. lab]() All Rights Reserved"
 home = "Home"
 languageCode = "ja"
 languageName = "Ja"
