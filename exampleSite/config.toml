@@ -20,53 +20,29 @@ languageCode = "ja"
 languageName = "Ja"
 weight = 1
 [[menu.footer]]
-URL = "about"
-name = "About"
+URL = "member"
+name = "Member"
 weight = 1
 [[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
+URL = "research"
+name = "Research"
+weight = 2 
 [[menu.footer]]
-URL = "service"
-name = "Service"
+URL = "publishing"
+name = "Publishing"
 weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-hasChildren = true
-name = "Pages"
 weight = 4
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
+URL = "member"
+name = "Member"
+weight = 1
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+URL = "research"
+name = "Research"
+weight = 2 
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -75,14 +51,14 @@ weight = 6
 author = "nohara"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "nohara@pe.ska.life.tsukuba.ac.jp"
 google_analitycs_id = ""
 location = "Tenno-dai,Tsukuba,Ibaraki, Japan"
 logo = "images/logo.png"
 mobile = "0124857985320"
 multi_author = false
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
