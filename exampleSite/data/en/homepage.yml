@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Welcome to P.E. lab"
+  title : "P.E.lab"
   content : "We are Population, Pollination, Plant and anything P. Ecologists."
   button:
     enable : false
