@@ -67,7 +67,7 @@ service:
 
     - icon : ion-speakerphone
       name: Starling roost
-      content "Starling roost"   
+      content:  "Starling roost"   
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Celler automata
