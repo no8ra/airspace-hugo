@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Morning Test"
+title = "Welcome to P.E. lab!!"
 [Languages.ja]
 contentDir = "content/japanese"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -19,13 +19,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 2
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "FR"
-weight = "3"
 [[menu.footer]]
 URL = "about"
 name = "About"
