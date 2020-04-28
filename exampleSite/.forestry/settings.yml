@@ -41,22 +41,13 @@ sections:
   match: "**/*"
   templates:
   - author
-- type: heading
-  label: Project
 - type: directory
-  path: exampleSite/content/english/project
-  label: Project (en)
-  create: documents
+  path: exampleSite/contents/japanese/publications
+  label: Publications(ja)
+  create: all
   match: "**/*"
   templates:
-  - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
+  - post
 - type: heading
   label: Others Pages
 - type: directory
@@ -90,23 +81,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
   create: none
   match: "*"
 - type: directory
