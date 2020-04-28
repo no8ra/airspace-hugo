@@ -4,17 +4,17 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Welcome to P.E. lab!!"
+title = "P.E. lab"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [P.E. lab]() All Rights Reserved"
+copyright = "Copyright &copy; 2020 [P.E. lab]() All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 2
 [Languages.ja]
 contentDir = "content/japanese"
-copyright = "Copyright &copy; 2019 [P.E. lab]() All Rights Reserved"
+copyright = "Copyright &copy; 2020 [P.E. lab]() All Rights Reserved"
 home = "Home"
 languageCode = "ja"
 languageName = "Ja"
@@ -26,7 +26,7 @@ weight = 1
 [[menu.footer]]
 URL = "research"
 name = "Research"
-weight = 2 
+weight = 2
 [[menu.footer]]
 URL = "publications"
 name = "Publications"
@@ -47,7 +47,7 @@ weight = 1
 [[menu.main]]
 URL = "research"
 name = "Research"
-weight = 2 
+weight = 2
 [[menu.main]]
 URL = "publications"
 name = "Publications"
@@ -67,7 +67,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "nohara@pe.ska.life.tsukuba.ac.jp"
 google_analitycs_id = ""
-location = "Tenno-dai,Tsukuba,Ibaraki, Japan"
+location = "1-1-1, Tenno-dai, Tsukuba, Ibaraki, Japan"
 logo = "images/logo.png"
 mobile = "0124857985320"
 multi_author = false
