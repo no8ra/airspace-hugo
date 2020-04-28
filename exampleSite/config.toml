@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "P.E. lab"
+title = "P.E. la"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [P.E. lab]() All Rights Reserved"
@@ -52,15 +52,9 @@ URL = "publications"
 name = "Publications"
 weight = 3
 [[menu.main]]
-<<<<<<< HEAD
-URL = "seminer"
-name = "Seminer"
-weight = 4
-=======
 URL = "research"
 name = "Research"
 weight = 2
->>>>>>> a4247d0a4e60b6f3869c9131a1eade10cf973f49
 [[menu.main]]
 URL = "member"
 name = "Member"
