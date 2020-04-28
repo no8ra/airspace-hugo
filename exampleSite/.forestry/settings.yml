@@ -5,6 +5,70 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Member
+- type: directory
+  path: exampleSite/content/english/member
+  label: Member(en)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/japanese/member
+  label: Member(ja)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: heading
+  label: Research
+- type: directory
+  path: exampleSite/content/english/research
+  label: Research(en)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/japanese/research
+  label: Research(ja)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: heading
+  label: Publications
+- type: directory
+  path: exampleSite/content/english/publications
+  label: Publications(en)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/contents/japanese/publications
+  label: Publications(ja)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: heading
+  label: Seminer
+- type: directory
+  path: exampleSite/content/engish/seminer
+  label: Seminer(en)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/japanese/seminer
+  label: Seminer(ja)
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/japanese/blog
@@ -35,77 +99,10 @@ sections:
   templates:
   - author
 - type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
-  label: Others Pages
-- type: directory
-  path: exampleSite/contents/japanese/publications
-  label: Publications(ja)
-  create: all
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/english/publications
-  label: Publications(en)
-  create: all
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
   create: none
   match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
 - type: directory
   path: exampleSite/content/english
   label: All Pages (en)
@@ -114,8 +111,8 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
+  path: exampleSite/content/japanese
+  label: All Pages (ja)
   create: all
   match: "**/*"
   templates:
@@ -128,8 +125,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
+  path: exampleSite/data/ja
+  label: Data (ja)
   create: all
   match: "**/*"
 - type: directory
