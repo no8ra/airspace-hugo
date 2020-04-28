@@ -20,51 +20,47 @@ languageCode = "ja"
 languageName = "Ja"
 weight = 1
 [[menu.footer]]
-URL = "seminer"
-name = "Seminer"
-weight = 4
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.footer]]
-URL = "publications"
-name = "Publications"
-weight = 3
+URL = "member"
+name = "Member"
+weight = 1
 [[menu.footer]]
 URL = "research"
 name = "Research"
 weight = 2
 [[menu.footer]]
+URL = "publications"
+name = "Publications"
+weight = 3
+[[menu.footer]]
+URL = "semminer"
+name = "Semminer"
+weight = 4
+
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
 URL = "member"
 name = "Member"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "research"
+name = "Research"
+weight = 2
+[[menu.main]]
+URL = "publications"
+name = "Publications"
+weight = 3
 [[menu.main]]
 URL = "semminer"
-name = "Seminer"
+name = "Semminer"
 weight = 4
 [[menu.main]]
-URL = "publications"
-name = "Publications"
-weight = 3
-[[menu.main]]
-<<<<<<< HEAD
-URL = "seminer"
-name = "Seminer"
-weight = 4
-=======
-URL = "research"
-name = "Research"
-weight = 2
->>>>>>> a4247d0a4e60b6f3869c9131a1eade10cf973f49
-[[menu.main]]
-URL = "member"
-name = "Member"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 5
+
 [params]
 author = "nohara"
 contact_form_action = "#"
