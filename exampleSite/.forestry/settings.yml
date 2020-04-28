@@ -41,6 +41,8 @@ sections:
   match: "**/*"
   templates:
   - author
+- type: heading
+  label: Others Pages
 - type: directory
   path: exampleSite/contents/japanese/publications
   label: Publications(ja)
@@ -48,8 +50,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Others Pages
 - type: directory
   path: exampleSite/content/english/about
   label: About (en)
