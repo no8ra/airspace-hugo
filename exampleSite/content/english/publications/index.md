@@ -6,12 +6,10 @@ date = 2020-04-27T15:00:00Z
 description = "Publications list"
 image = ""
 tags = []
-title = "_index"
+title = "Publications list"
 type = "post"
 
 +++
-## Publications
-
 **2017**  
 Funamoto, D., and K. Ohashi. "Hidden floral adaptation to nocturnal moths in an apparently bee‐pollinated flower, Adenophora triphylla var. japonica (Campanulaceae)." Plant Biology (2017).
 
