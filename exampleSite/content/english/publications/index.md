@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-04-27T15:00:00Z
 description = "Publications list"
-draft = true
 image = ""
 tags = []
 title = "_index"
