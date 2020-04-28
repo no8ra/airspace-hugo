@@ -6,7 +6,7 @@ date = 2020-04-27T15:00:00Z
 description = ""
 image = ""
 tags = []
-title = "Publications"
+title = "_index"
 type = "post"
 
 +++
