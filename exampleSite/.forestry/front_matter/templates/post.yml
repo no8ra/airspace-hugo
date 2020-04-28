@@ -34,3 +34,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/japanese/blog/test.md
+- exampleSite/contents/japanese/publications/publications.md
