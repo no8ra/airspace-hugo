@@ -28,13 +28,18 @@ URL = "research"
 name = "Research"
 weight = 2 
 [[menu.footer]]
-URL = "publishing"
-name = "Publishing"
+URL = "publications"
+name = "Publications"
 weight = 3
+[[menu.footer]]
+URL = "semminer"
+name = "Semminer"
+weight = 4
+
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 [[menu.main]]
 URL = "member"
 name = "Member"
@@ -44,9 +49,18 @@ URL = "research"
 name = "Research"
 weight = 2 
 [[menu.main]]
+URL = "publications"
+name = "Publications"
+weight = 3
+[[menu.main]]
+URL = "semminer"
+name = "Semminer"
+weight = 4
+[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 5
+
 [params]
 author = "nohara"
 contact_form_action = "#"
