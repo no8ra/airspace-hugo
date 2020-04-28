@@ -53,8 +53,8 @@ URL = "publications"
 name = "Publications"
 weight = 3
 [[menu.main]]
-URL = "semminer"
-name = "Semminer"
+URL = "seminer"
+name = "Seminer"
 weight = 4
 [[menu.main]]
 URL = "contact"
