@@ -34,4 +34,3 @@ fields:
   default: post
 pages:
 - exampleSite/content/english/publications/index.md
-- exampleSite/contents/japanese/publications/publications.md
