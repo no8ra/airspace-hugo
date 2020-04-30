@@ -1,4 +1,4 @@
-baseURL = "https://pelab.netlify.com"
+baseURL = "https://example.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
@@ -53,15 +53,13 @@ URL = "publications"
 name = "Publications"
 weight = 3
 [[menu.main]]
-<<<<<<< HEAD
 URL = "semminer"
 name = "Semminer"
 weight = 4
-=======
+[[menu.main]]
 URL = "research"
 name = "Research"
 weight = 2
->>>>>>> eefdaaf17041ade5f77158483932cbb602b6e4f5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
